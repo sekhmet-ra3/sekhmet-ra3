@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> ## This is Sekhmet-Ra3 company.
+##     This is Sekhmet-Ra3 company.
 ---
